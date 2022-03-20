@@ -1,3 +1,3 @@
 👋 Hello I'm Kobiljon
-• **Student** of Computer Information & Engineering
-• Future *Front-end* Developer
+- **Student** of Computer Information & Engineering
+- Future *Front-end* Developer
